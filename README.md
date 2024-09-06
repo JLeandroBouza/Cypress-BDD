@@ -117,4 +117,4 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi 
 
 <hr>
 
-<p align="center"><strong>¡Gracias por visitar mi repositorio y espero que disfrutes de este proyecto tanto como yo disfruto mejorando mis habilidades como QA automatizador!</strong></p>
+<p align="center"><strong>¡Gracias por visitar mi repositorio y espero que disfrutes de este proyecto tanto como yo disfruto mejorando mis habilidades como QA Automation!</strong></p>
