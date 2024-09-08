@@ -14,7 +14,7 @@ const {
   
   
   When(
-    `I fill in my email and password with "username" and "password"`,
+    `I fill in my email and password with {string} and {string}`,
     function (username, password) {
       loginPage.login(username, password);
     }
