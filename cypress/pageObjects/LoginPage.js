@@ -12,7 +12,7 @@ export class LoginPage {
     }
   
     visit() {
-      cy.visit("http://zero.webappsecurity.com/login.html");
+      cy.visit("https://www.saucedemo.com/");
     }
   
     login(email, password) {
